@@ -1,10 +1,10 @@
-subjFE = 80.0
-subjGB = 80.0
-subjCS = 80.0
-subjCP = 80.0
+FE=80
+GB=80
+CS=80
+CP=80
 print("--- Your Score ---")
-print("Foundation English", subjFE)
-print("General Business", subjGB)
-print("Introduction to Computer Systems", subjCS)
-print("Computer Programming", subjCP)
-© 2020 GitHub, Inc.
+print("Foundation English",FE)
+print("General Business",GB)
+print("Introduction to Computer Systems",CS)
+print("Computer Programming",CP)
+
